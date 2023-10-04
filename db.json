@@ -1,11 +1,28 @@
 {
-  "pokemon": [{
-    "hp": [],
-    "attack": [],
-    "defense": [],
-    "special-attack": [],
-    "special-defense": [],
-    "speed": [],
-    "name": []
-  }]
+  "pokemon": [
+    {
+      "name": [],
+      "stats": {
+        "hp": [],
+        "attack": [],
+        "defense": [],
+        "special_attack": [],
+        "special_defense": [],
+        "speed": []
+      },
+      "id": []
+    },
+    {
+      "name": "charmeleon",
+      "stats": {
+        "hp": "100",
+        "attack": "100",
+        "defense": "100",
+        "special_attack": "100",
+        "special_defense": "65",
+        "speed": "100"
+      },
+      "id": "iIg7nfW"
+    }
+  ]
 }
