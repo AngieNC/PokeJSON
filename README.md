@@ -16,7 +16,8 @@ Facilitarle al usuario los nombres de los 500 primeros pokemon y que pueda conoc
 - CSS
 - PokéAPI (https://pokeapi.co/)
 - Archivos JSON
-- Mockapi.io (https://mockapi.io/projects/6509e7ebf6553137159c3aef)
+- SweetAlert (Se utilizó para mostrar los modales)
+- JSON server (http://127.0.0.1:5010/pokemon)
 
 #### ¿Cómo funciona la página?
 
@@ -34,8 +35,25 @@ Facilitarle al usuario los nombres de los 500 primeros pokemon y que pueda conoc
 
 
 
-3. Ahora podrás jugar con sus configuraciones, y se te verán los resultados en la API, pero no en la pantalla.
+3. Ahora podrás jugar con sus configuraciones, y se te verán los resultados en la API y cuando vuelvas a entrar a la tarjeta donde se te verán los datos.
+
+
+![](img/modificar.png)
+
+#### Adicionales
+
+- ##### Package.json:
+
+  Para iniciar el servidor primero se debe instalar el package.json para tener le port y el host , por lo cual es el dev en los scripts.
+
+- ##### Node: 
+
+  Se utilizaron los módulos de node para desarrollar esta actividad.
+
+- ##### Dependencias: 
+
+  Se necesitan instalar las dependencias para que el servidor pueda ejecutarse y por lo cual la página funcione, de esta forma se instalan: `npm -E -D install json-server`y de esta forma se corre el servidor: `npm run dev`
 
 #### Autora:
 
-Angie Cardenas
+Angie Nathalia Cardenas Pinzon
