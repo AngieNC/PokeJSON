@@ -2,7 +2,7 @@
   "name": "pokejson",
   "version": "1.0.0",
   "description": "<center><h1>Proyecto Pokémon</h1></center>",
-  "main": "main.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "json-server --watch db.json --port 5010 --host 127.0.0.1"
