@@ -23,6 +23,18 @@
         "speed": "100"
       },
       "id": "iIg7nfW"
+    },
+    {
+      "name": "bulbasaur",
+      "stats": {
+        "hp": "0",
+        "attack": "0",
+        "defense": "49",
+        "special_attack": "0",
+        "special_defense": "10",
+        "speed": "45"
+      },
+      "id": "83Tscl8"
     }
   ]
 }
